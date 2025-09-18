@@ -1,0 +1,9 @@
+{
+  "name": "MMM-MyTeams-Clock",
+  "version": "1.0.0",
+  "description": "MagicMirror module: Transparent analog clock overlay on My Teams crest ( default  Celtic FC crest.) ",
+  "main": "MMM-MyTeams-Clock.js",
+  "author": "gitgitaway",
+  "license": "MIT",
+  "dependencies": {}
+}

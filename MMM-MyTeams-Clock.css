@@ -1,0 +1,21 @@
+/* Wrapper occupies a square area and centers horizontally in its region */
+.myteams-clock-wrapper {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  
+}
+
+/* Crest is a circular mask with background image (robust for non-square inputs) */
+.myteams-crest {
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+/* Canvas overlays crest; pointer-events none so clicks pass through if needed */
+.myteams-clock-canvas {
+  display: block;
+  pointer-events: none;
+}
