@@ -15,15 +15,15 @@ This is my first module and will be 1 of 4 Celtic themed modules which Im planni
 
 ## Screenshots
 
-- Clock over crest positioned (example 1)
+- Clock over crest positioned middle_center (example 1)
 
 ![Celtic Clock positioned top-center with clock inside the crest ](./screenshots/screenshot1.png)
 
-- Clock over crest (example 2)
+- Clock over crest positioned top_left(example 2)
 
 ![Hibs Clock positioned top-left](./screenshots/screenshot2.png)
 
-- In-Mirror example
+- Clock over crest with debug border to aid placement
 
 ![Hearts Clock with debug border shown](./screenshots/screenshot3.png)
 
@@ -158,9 +158,21 @@ git pull
 - 1.0.0
   - Initial draft
 
-## License
-MIT License
+-## Notes
+
+This id the 1st module in my Celtic themed man cave magicmirror.  
+- ![Screenshot 1](./screenshots/CelticMM-Screenshot.png)
+
+ The other modules can be found here:- 
+- Module 2: MyTeams-Clock  https://github.com/gitgitaway/MMM-MyTeams-LeagueTable
+- Module 3: MyTeams-Clock  https://github.com/gitgitaway/MMM-MyTeams-Fixtures
+- Module 4: MyTeams-Clock  https://github.com/gitgitaway/MMM-JukeBox
+---
+## Acknowledgments
+Thanks to the MagicMirror community for inspiration and guidance! Special thanks to all those who have produced such great clock modules which inspired me to have a go. 
 
 ## Credits
-- Inspired by various MagicMirror clock and logo overlay modules.
 - Club crests are property of their respective owners; included images are for demonstration.
+
+## License
+MIT License 
