@@ -2,8 +2,6 @@
 
 A MagicMirror² module that overlays a customizable analog clock on top of a football club crest. Works best with circular crests but can cope with non-circular / non-square crest images by masking them in a circular container while rendering the clock precisely centered on top. Some user tweaking of the config offsets may be required to align the clock face on irregular shaped crests or if you want the clockface inside the crest rather than aligned yo the circular crst circumfrance.
 
-This is my first module and will be 1 of 4 Celtic themed modules which Im planning for my man cave`s mirror. The others will posted shortlly once completed. Feel free to adapt these for your own team.  
-
 ## Features
 - **Crest rendered as a perfect circle**: Background-image masked to circle (no distortion)
 - **Overlay analog clock**: Adjustable clock radius and colors
@@ -160,7 +158,7 @@ git pull
 
 -## Notes
 
-This id the 1st module in my Celtic themed man cave magicmirror.  
+This is the 1st module in my Celtic themed man cave magicmirror.  
 - ![Screenshot 1](./screenshots/CelticMM-Screenshot.png)
 
  The other modules can be found here:- 
