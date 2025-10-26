@@ -246,9 +246,9 @@ This was the 1st module in my Celtic themed man cave magicmirror.
 - ![Screenshot 1](./screenshots/CelticMM-Screenshot.png)
 
  The other modules can be found here:- 
-- Module 2: MyTeams-Clock  https://github.com/gitgitaway/MMM-MyTeams-LeagueTable
-- Module 3: MyTeams-Clock  https://github.com/gitgitaway/MMM-MyTeams-Fixtures
-- Module 4: MyTeams-Clock  https://github.com/gitgitaway/MMM-JukeBox
+- Module 2: MyTeams-LeagueTable  https://github.com/gitgitaway/MMM-MyTeams-LeagueTable
+- Module 3: MyTeams-Fixtures https://github.com/gitgitaway/MMM-MyTeams-Fixtures
+- Module 4: MyTeams-JukeBox  https://github.com/gitgitaway/MMM-JukeBox
 ---
 ## Acknowledgments
 Thanks to the MagicMirror community for inspiration and guidance! Special thanks to all those who have produced such great clock modules which inspired me to have a go. 
@@ -258,3 +258,4 @@ Thanks to the MagicMirror community for inspiration and guidance! Special thanks
 
 ## License
 MIT License 
+
