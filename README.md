@@ -18,7 +18,7 @@ A MagicMirror² module that overlays a customizable analog clock on top of a foo
 
 ![Screenshot 1](./screenshots/screenshot1.png) ![Screenshot 2](./screenshots/screenshot2.png) ![Screenshot 3](./screenshots/screenshot3.png)
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
 |:---:|:---:|:---:|
 
 ![Screenshot 4](./screenshots/screenshot4.png) ![Screenshot 5](./screenshots/screenshot5.png) ![Screenshot 6](./screenshots/screenshot6.png)
@@ -258,5 +258,6 @@ Thanks to the MagicMirror community for inspiration and guidance! Special thanks
 
 ## License
 MIT License 
+
 
 
